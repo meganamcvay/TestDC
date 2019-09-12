@@ -12,4 +12,5 @@ testing out repository to learn Git
 just more text
 =======
 trying more out.
->>>>>>> Stashed changes
+
+what happens when I work in here
